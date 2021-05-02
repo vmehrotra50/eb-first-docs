@@ -8,7 +8,24 @@ Welcome to EBFI Documentation's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Software:
+
+   docs/code/code_structure_home
+   docs/code/path_planning_home
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Mechanical:
+
+   docs/mech/mech_home
+   docs/mech/doc2
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Nontech:
+
+   docs/nontech/nontech_home
+   docs/nontech/doc2
 
 
 

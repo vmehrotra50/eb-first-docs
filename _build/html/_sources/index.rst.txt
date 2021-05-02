@@ -6,32 +6,25 @@
 Welcome to EBFI Documentation's documentation!
 ==============================================
 
+hello :)
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Software:
 
    docs/code/code_structure_home
    docs/code/path_planning_home
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Mechanical:
 
    docs/mech/mech_home
    docs/mech/doc2
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Nontech:
 
    docs/nontech/nontech_home
    docs/nontech/doc2
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

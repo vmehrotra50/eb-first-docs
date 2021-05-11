@@ -14,6 +14,7 @@ hello :)
 
    docs/code/code_structure_home
    docs/code/path_planning_home
+   docs/code/vision_home
 
 .. toctree::
    :maxdepth: 1

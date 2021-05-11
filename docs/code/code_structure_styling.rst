@@ -7,7 +7,30 @@ This page contains everything you need to know about code styling so we can keep
 Sample Class
 ============
 
-Here is an example of what a class should look like. More detailed explanations
+Here is an example of what a class should look like. More detailed explanations of the various parts are below
+
+.. code-block:: java
+   
+   public class ClassName extends SuperClass {
+       // Variables:
+       private int var1 = value;
+       private int var2 = value;
+       private int var3 = value;
+
+       // Constructors:
+       ClassName() {
+           code...
+       }
+
+       // Methods:
+       public void method1() {
+           code...
+       }
+
+       public void method2() {
+           code...
+       }
+   }
 
 Variables
 =========

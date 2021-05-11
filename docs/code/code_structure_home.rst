@@ -1,6 +1,6 @@
-==========================
-Code Structure and Styling
-==========================
+=====================
+Best Coding Practices
+=====================
 
 .. toctree::
    :maxdepth: 1
